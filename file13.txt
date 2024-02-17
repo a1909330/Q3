@@ -1,0 +1,6 @@
+git checkout -b assignment_answers
+git rm *.sh
+touch file13.txt
+git add file13.txt
+git commit -m "Added file13.txt"
+git push origin assignment_answers
